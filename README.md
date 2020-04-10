@@ -1,5 +1,4 @@
 # hall-management-system
-# hall-management-system
 ABSTRACT
 A web base hall booking management system provides the searching facilities for the user in accordance with their requirements  based on various factors. This project is to reserve hall in a easy manner. This web base hall booking system is use to check the availability of hall, hence we need not visit the place directly .This provides an efficient way for reserving a hall without any confusion in a better manner.  Information and the details about the hall to be reserved is fetched and stored in database. The user should have wasted his/her time to search the hall, this project reduces the manual effort  to make an efficient search for engaging the hall. The user can manage the booking details , updating and the booking dates of the required hall. New hall details could also be updated, so he/she can update the details about hall and the information .The booking details is viewed from the stored database so that every user could gain the information whether the hall is booked or not. This hall registration system is divided into 5 modules ,each and every module performs a specific task . This system keeps track of hall status and advance booking . The system keeps record of reserved halls along with the  associated event and the corresponding users details to whom the hall has been reserved and maintained in the database. 
 
@@ -104,12 +103,3 @@ VIEWING THE BOOKING DETAILS
 CASE	INPUT	TESTED OUTCOMES
 1.	When link is clicked	Booking details can be viewed
 2.	When  link is not selected	Booking details cannot be viewed
-
-
-
-
-
-
-
-
-
